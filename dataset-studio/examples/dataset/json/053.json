@@ -1,0 +1,62 @@
+{
+  "image": {
+    "path": "images/053.jpg",
+    "width": 1024,
+    "height": 920
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-to-test-your-iq-can-you-identify-the-boys-wife-in-5-seconds-1694187268-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the real wife",
+  "choices": {
+    "A": "Girl A",
+    "B": "Girl B",
+    "C": "Girl C"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "Girl A and C looking happy",
+      "bounding_boxes": [
+        {
+          "box_id": "9bcb5e37-756c-46ea-a638-85da2185cd40",
+          "x": 644.559835768627,
+          "y": 5.75,
+          "width": 364.0449221108562,
+          "height": 403.61290322580646
+        },
+        {
+          "box_id": "2cda2051-f6a7-4609-ba28-8956abd6b693",
+          "x": 1.5457070402125348,
+          "y": 3.771505376344086,
+          "width": 342.28136698466363,
+          "height": 399.65591397849465
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "B",
+    "idea": "The second girl is the boy's wife because she alone wears a wedding ring.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

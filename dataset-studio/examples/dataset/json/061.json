@@ -1,0 +1,62 @@
+{
+  "image": {
+    "path": "images/061.jpg",
+    "width": 728,
+    "height": 728
+  },
+  "source": {
+    "url": "https://brightside.me/articles/14-puzzles-to-unlock-your-superpowers-804596/",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": 13509,
+    "comments_count": null,
+    "likes": 29
+  },
+  "problem": "who is the criminal",
+  "choices": {
+    "A": "The person on the left",
+    "B": "The person in the center",
+    "C": "The person on the right"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "Objects in hand",
+      "bounding_boxes": [
+        {
+          "box_id": "222cddd0-b69e-41fb-93c6-768f42512d7b",
+          "x": 108.80860215053764,
+          "y": 156.41236559139784,
+          "width": 183.1741935483871,
+          "height": 180.04301075268816
+        },
+        {
+          "box_id": "9d3580a5-96dd-4f86-bba9-f20a5b28816f",
+          "x": 334.2537634408602,
+          "y": 275.39731182795697,
+          "width": 112.72258064516132,
+          "height": 128.3784946236559
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "C",
+    "idea": "The man on the right. He’s wearing a stolen ID card.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "kasra-1",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

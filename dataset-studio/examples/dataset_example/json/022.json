@@ -1,0 +1,39 @@
+{
+  "image": {
+    "path": "images/022.jpg",
+    "width": 1013,
+    "height": 675
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-spot-who-is-rich-only-top-1-per-cent-observant-answer-correctly-in-5-seconds-1747571299-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "Who receives cash from the customer?",
+  "choices": {
+    "A": "Woman A",
+    "B": "Woman B"
+  },
+  "ordered_deceptions": [],
+  "answer": {
+    "option": "B",
+    "idea": "The customer hands cash to woman B.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

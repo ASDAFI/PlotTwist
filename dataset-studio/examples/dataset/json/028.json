@@ -1,0 +1,53 @@
+{
+  "image": {
+    "path": "images/028.jpg",
+    "width": 747,
+    "height": 674
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-find-the-thief-1734428988-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the thief",
+  "choices": {
+    "A": "Left woman in the red dress",
+    "B": "Middle man in the cape",
+    "C": "Right man in the cape"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "Susan’s cleaning story sounds like an ordinary alibi.",
+      "bounding_boxes": []
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The story can distract from the fact that the mirror would show someone approaching behind her.",
+      "bounding_boxes": []
+    }
+  ],
+  "answer": {
+    "option": "A",
+    "idea": "Susan was the thief; cleaning the mirror means she would have seen the culprit approach from behind.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

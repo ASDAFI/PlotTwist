@@ -1,0 +1,82 @@
+{
+  "image": {
+    "path": "images/019.jpg",
+    "width": 1084,
+    "height": 883
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/find-the-thief-at-the-mall-in-8-seconds-in-this-brain-teaser-1689752344-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the thief",
+  "choices": {
+    "A": "The woman in green",
+    "B": "The white-haired woman in red",
+    "C": "The woman in the yellow dress",
+    "D": "The store clerk"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "The changing positions across three panels create many differences to inspect.",
+      "bounding_boxes": []
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The yellow outer dress hides the two stolen dresses beneath it.",
+      "bounding_boxes": []
+    },
+    {
+      "id": 3,
+      "intended_option": null,
+      "deceptive_idea": "The other shoppers are repeatedly shown handling and carrying store clothing, making them plausible thieves.",
+      "bounding_boxes": [
+        {
+          "box_id": "58f25f4d-cdca-405a-9e8e-1e3727060f4a",
+          "x": 210.87998014621104,
+          "y": 61.45748775265708,
+          "width": 84.77760057669178,
+          "height": 125.65034234793495
+        },
+        {
+          "box_id": "911ffc68-4272-4849-8a49-88fd00c5ff49",
+          "x": 299.4959874407809,
+          "y": 444.0600348116626,
+          "width": 96.634340940014,
+          "height": 107.44781769278995
+        },
+        {
+          "box_id": "4215f4e5-1006-45d6-b485-09a020cacf35",
+          "x": 329.2267722251809,
+          "y": 690.9864059239575,
+          "width": 104.25067235504054,
+          "height": 102.20044996262777
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "C",
+    "idea": "The woman in the yellow dress is the thief; two stolen dresses are visible beneath it in the third panel.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

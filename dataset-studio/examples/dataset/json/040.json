@@ -1,0 +1,69 @@
+{
+  "image": {
+    "path": "images/040.jpg",
+    "width": 1198,
+    "height": 545
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-spot-who-is-the-real-billionaire-only-1-percent-sharpest-minds-pass-this-iq-test-in-5-seconds-1743513700-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the billionaire",
+  "choices": {
+    "A": "Person A",
+    "B": "Person B",
+    "C": "Person C"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "Person B wears a large gold dollar-sign chain, making him appear wealthy.",
+      "bounding_boxes": [
+        {
+          "box_id": "caf88a94-8e04-4854-991d-81a95e478fab",
+          "x": 556.8476981548938,
+          "y": 192.25896545435873,
+          "width": 114.00833633580851,
+          "height": 118.73233426094916
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "Person C prominently displays a large smartphone while taking a selfie, making him appear affluent.",
+      "bounding_boxes": [
+        {
+          "box_id": "f7e08da6-0cf1-4b9e-a25d-338373c500dd",
+          "x": 1002.2229639207378,
+          "y": 4.614452777207041,
+          "width": 174.8747429586242,
+          "height": 85.06643380590371
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "A",
+    "idea": "Person A is the billionaire; the others are trying too hard to appear rich.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

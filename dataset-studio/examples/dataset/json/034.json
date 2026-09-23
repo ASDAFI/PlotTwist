@@ -1,0 +1,61 @@
+{
+  "image": {
+    "path": "images/034.jpg",
+    "width": 728,
+    "height": 546
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-guess-who-is-the-real-owners-of-yacht-in-5-seconds-1710310405-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the owner",
+  "choices": {
+    "A": "The man on the left",
+    "B": "The man in the center",
+    "C": "The woman on the right"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "The man in the middle gestures toward the yacht as if he is presenting or talking about it.",
+      "bounding_boxes": [
+        {
+          "box_id": "6a236d87-c7fc-43f2-bea5-10681cbc50ad",
+          "x": 216.03267045454547,
+          "y": 77.45525568181819,
+          "width": 129.3213778409091,
+          "height": 415.75532670454544
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The decisive detail that his blue pants match the blue jacket on the chair aboard it can be overlooked among the surrounding visual information.",
+      "bounding_boxes": []
+    }
+  ],
+  "answer": {
+    "option": "A",
+    "idea": "The man on the left owns the yacht; his blue pants match the blue jacket on the chair aboard it.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

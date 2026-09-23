@@ -1,0 +1,68 @@
+{
+  "image": {
+    "path": "images/042.jpg",
+    "width": 1200,
+    "height": 675
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-visual-challenge-who-is-cooking-wrong-only-2-percent-can-spot-the-error-in-5-seconds-1745245100-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is cooking incorrectly",
+  "choices": {
+    "A": "Person A",
+    "B": "Person B"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "",
+      "bounding_boxes": [
+        {
+          "box_id": "36eec042-0412-4ba8-bd16-3c96c405cee2",
+          "x": 944.0365932030394,
+          "y": 352.60584677419354,
+          "width": 255.48709031111787,
+          "height": 107.4193548387097
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The man’s pose looks like cooking even though his stove is off.",
+      "bounding_boxes": [
+        {
+          "box_id": "40a4c857-b89a-42f6-afdb-e893a8293543",
+          "x": 57.08993308887461,
+          "y": 428.0897177419355,
+          "width": 233.71262238687484,
+          "height": 191.61290322580646
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "A",
+    "idea": "The man is cooking incorrectly because his stove is switched off.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

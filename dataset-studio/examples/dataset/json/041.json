@@ -1,0 +1,69 @@
+{
+  "image": {
+    "path": "images/041.jpg",
+    "width": 1200,
+    "height": 564
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-to-test-iq-only-1-brightest-minds-can-spot-who-has-a-dog-in-7-seconds-1820001122-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the owner",
+  "choices": {
+    "A": "Person A",
+    "B": "Person B",
+    "C": "Person C"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "Person B has a sign saying \"I Love Dogs!\"",
+      "bounding_boxes": [
+        {
+          "box_id": "3a99e899-f997-42f1-9d14-4e590e0050c1",
+          "x": 521.1705807103713,
+          "y": 163.6282258064516,
+          "width": 135.84548081934338,
+          "height": 88.54193548387096
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "Person C has a dog on his shirt",
+      "bounding_boxes": [
+        {
+          "box_id": "67acf7d5-b808-483a-82b9-bc131e4c5057",
+          "x": 984.5007027906315,
+          "y": 166.05403225806452,
+          "width": 59.432397858462764,
+          "height": 52.15483870967742
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "A",
+    "idea": "Person A has a dog; the answer image highlights the leash attached to her chair.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

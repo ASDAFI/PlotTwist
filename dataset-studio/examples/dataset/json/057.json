@@ -1,0 +1,55 @@
+{
+  "image": {
+    "path": "images/057.jpg",
+    "width": 1078,
+    "height": 851
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-to-test-your-intelligence-find-the-criminal-lady-in-the-picture-in-6-seconds-1695555988-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the criminal",
+  "choices": {
+    "A": "Woman A",
+    "B": "Woman B",
+    "C": "Woman C"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "having blonde hair like wanted poster",
+      "bounding_boxes": [
+        {
+          "box_id": "c09d925f-fdc6-44e5-bf2d-9e3fdec31bb4",
+          "x": 892.2138574990715,
+          "y": 166.3682123655914,
+          "width": 185.78614250092846,
+          "height": 188.50107526881717
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "A",
+    "idea": "The criminal lady in the picture is the lady with the spectacles and stick.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

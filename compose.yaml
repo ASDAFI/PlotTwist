@@ -1,0 +1,57 @@
+name: plottwist-studio
+services:
+  api:
+    build:
+      context: ./dataset-studio/backend
+      args:
+        APP_UID: ${PLOTTWIST_UID:-1000}
+        APP_GID: ${PLOTTWIST_GID:-1000}
+    environment:
+      DATASET_ROOT: /dataset
+      RESPONSES_ROOT: /responses
+      EXPORTS_ROOT: /exports
+      STATE_ROOT: /state
+    volumes:
+      - type: bind
+        source: ${DATASET_DIR:-./dataset-studio/examples/dataset}
+        target: /dataset
+        read_only: true
+        bind:
+          create_host_path: false
+      - type: bind
+        source: ${RESPONSES_DIR:-./dataset-studio/examples/responses}
+        target: /responses
+        read_only: true
+        bind:
+          create_host_path: false
+      - type: bind
+        source: ${EXPORT_DIR:-./dataset-studio/exports}
+        target: /exports
+        bind:
+          create_host_path: false
+      - state:/state
+    restart: unless-stopped
+    read_only: true
+    tmpfs:
+      - /tmp
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+  ui:
+    build: .
+    ports:
+      - "127.0.0.1:8080:8080"
+    depends_on:
+      api:
+        condition: service_healthy
+    restart: unless-stopped
+    read_only: true
+    tmpfs:
+      - /tmp
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+volumes:
+  state:

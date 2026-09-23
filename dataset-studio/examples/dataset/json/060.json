@@ -1,0 +1,54 @@
+{
+  "image": {
+    "path": "images/060.jpg",
+    "width": 728,
+    "height": 564
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/puzzle-iq-test-only-a-genius-can-spot-which-woman-has-a-dog-inside-her-house-in-picture-1682073596-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who has a dog",
+  "choices": {
+    "A": "House A",
+    "B": "House B"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "The muddy footprints and dirty shoe in house B may suggest that a pet made the mess.",
+      "bounding_boxes": [
+        {
+          "box_id": "f4988cb7-d6f3-4a6e-9ab3-a6659f5474fe",
+          "x": 428.29437950693773,
+          "y": 420.76370967741934,
+          "width": 161.31872022492382,
+          "height": 122.50322580645161
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "A",
+    "idea": "So, the answer to this mind puzzle is that the woman living in house A has a dog.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

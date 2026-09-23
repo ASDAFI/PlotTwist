@@ -1,0 +1,97 @@
+{
+  "image": {
+    "path": "images/007.jpg",
+    "width": 728,
+    "height": 1035
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-can-you-find-the-thief-in-15-seconds-1712999951-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the thief",
+  "choices": {
+    "A": "Employee 1",
+    "B": "Employee 2",
+    "C": "Customer"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "All three people have ordinary reasons to be inside the spa.",
+      "bounding_boxes": [
+        {
+          "box_id": "6398939f-92f6-4ea3-a37e-12957fa75300",
+          "x": 348.0252351718934,
+          "y": 7.3255540410198225,
+          "width": 319.34464647853383,
+          "height": 149.98575250558437
+        },
+        {
+          "box_id": "ab99b952-96cf-4c3d-bdd5-040375458f3a",
+          "x": 345.8946098907152,
+          "y": 367.98379363416575,
+          "width": 372.1893081903378,
+          "height": 154.53038480935925
+        },
+        {
+          "box_id": "ad2a3d1e-d2fa-41d0-912b-65a3c97e137f",
+          "x": 374.78691965120885,
+          "y": 690.5324133793996,
+          "width": 322.9959196418434,
+          "height": 171.4718118472498
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The shelves of oils hide the stolen money from immediate view.",
+      "bounding_boxes": [
+        {
+          "box_id": "7ac17577-a521-4061-935b-57ccbd0874ad",
+          "x": 475.6221975753581,
+          "y": 574.5283113040263,
+          "width": 225.91500965267346,
+          "height": 109.3417913918621
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "intended_option": null,
+      "deceptive_idea": "The Customer's money in bag may draw attention from the hidden money in the drawer",
+      "bounding_boxes": [
+        {
+          "box_id": "4a54728a-4946-4e33-8681-23d51daa2094",
+          "x": 229.17433711235012,
+          "y": 938.665569600962,
+          "width": 87.69128558819952,
+          "height": 53.95082398439479
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "B",
+    "idea": "Employee 2 is the thief; the stolen money is hidden behind the stored oils.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

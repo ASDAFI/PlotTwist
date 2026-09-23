@@ -1,0 +1,81 @@
+{
+  "image": {
+    "path": "images/014.jpg",
+    "width": 1133,
+    "height": 671
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-for-fun-can-you-guess-who-is-cheating-their-partner-among-three-dancing-couples-within-4-seconds-1674707522-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is cheating",
+  "choices": {
+    "A": "The woman in the left couple",
+    "B": "The woman in the middle couple",
+    "C": "The woman in the right couple"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "The dancing couples appear to be focused on their partners.",
+      "bounding_boxes": []
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The bride’s small note-passing gesture is easy to miss.",
+      "bounding_boxes": []
+    },
+    {
+      "id": 3,
+      "intended_option": null,
+      "deceptive_idea": "The man on the right seems to be looking at someone else",
+      "bounding_boxes": [
+        {
+          "box_id": "99865f2e-5f11-4150-8178-25bcfdfdc972",
+          "x": 893.883352361495,
+          "y": 20.503534226190474,
+          "width": 170.83731923246398,
+          "height": 125.04659598214286
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "intended_option": null,
+      "deceptive_idea": "The woman on the left is embracing and looking directly at her dance partner, drawing attention from her.",
+      "bounding_boxes": [
+        {
+          "box_id": "d394f1ee-f36c-49b9-9c40-733e99818636",
+          "x": 3.2395094740215518,
+          "y": 102.42689732142857,
+          "width": 337.35718363177506,
+          "height": 400.70396205357144
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "A",
+    "idea": "The bride is cheating; she is passing a note to someone while dancing.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

@@ -1,0 +1,86 @@
+{
+  "image": {
+    "path": "images/062.jpg",
+    "width": 728,
+    "height": 473
+  },
+  "source": {
+    "url": "https://brightside.me/articles/try-to-solve-the-mystery-riddle-story-in-under-15-minutes-to-find-the-culprit-802693/",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": 39804,
+    "comments_count": null,
+    "likes": 44
+  },
+  "problem": "who is from the future",
+  "choices": {
+    "A": "The man at the far upper left",
+    "B": "The blond man near the upper left",
+    "C": "The dark-haired man at the upper right",
+    "D": "The red-haired seated man",
+    "E": "The woman by the fire",
+    "F": "The woman by the rock"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "Drawing on stone",
+      "bounding_boxes": [
+        {
+          "box_id": "df6f0dde-48e0-41e7-b0c2-01fdfa0aa383",
+          "x": 605.0904962557038,
+          "y": 271.49818548387094,
+          "width": 74.25749405060799,
+          "height": 54.929032258064524
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "making fire with stone",
+      "bounding_boxes": [
+        {
+          "box_id": "7a718b7b-2bb8-4d13-8b42-ec972c474808",
+          "x": 76.13300438835884,
+          "y": 319.3067876344086,
+          "width": 101.72259458987403,
+          "height": 105.78924731182798
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "intended_option": null,
+      "deceptive_idea": "using tools",
+      "bounding_boxes": [
+        {
+          "box_id": "b7f4f5a1-80ff-48e8-8716-cb6e8941f727",
+          "x": 486.07506058555117,
+          "y": 74.16055107526881,
+          "width": 88.49865729319043,
+          "height": 125.11612903225807
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "B",
+    "idea": "It’s this man. He has a flashlight.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "kasra-1",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

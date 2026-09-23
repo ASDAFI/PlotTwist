@@ -1,0 +1,74 @@
+{
+  "image": {
+    "path": "images/065.jpg",
+    "width": 728,
+    "height": 608
+  },
+  "source": {
+    "url": "https://brightside.me/articles/10-logical-riddles-that-will-shake-up-your-brain-803227/",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": 26993,
+    "comments_count": null,
+    "likes": 23
+  },
+  "problem": "who is cheating",
+  "choices": {
+    "A": "The woman in the left couple",
+    "B": "The woman in the middle couple",
+    "C": "The woman in the right couple"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "looking street style and batboy",
+      "bounding_boxes": [
+        {
+          "box_id": "6621ed02-f60d-4a54-960f-3d0bf7cbd22b",
+          "x": 281.6344399854068,
+          "y": 77.02150537634408,
+          "width": 115.06457497263773,
+          "height": 163.44086021505376
+        },
+        {
+          "box_id": "f2bbf098-c78c-4548-864f-735e3dffa69f",
+          "x": 565.3732214520248,
+          "y": 61.33118279569892,
+          "width": 152.9835826340751,
+          "height": 133.36774193548388
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "",
+      "bounding_boxes": []
+    },
+    {
+      "id": 3,
+      "intended_option": null,
+      "deceptive_idea": "The secret exchange is partially hidden behind the people in the foreground.",
+      "bounding_boxes": []
+    }
+  ],
+  "answer": {
+    "option": "A",
+    "idea": "The bride is. She is trying to pass a note to someone.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "kasra-1",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

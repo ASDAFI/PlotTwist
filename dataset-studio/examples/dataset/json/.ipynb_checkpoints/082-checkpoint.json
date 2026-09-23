@@ -1,0 +1,69 @@
+{
+  "image": {
+    "path": "images/082.jpg",
+    "width": 1084,
+    "height": 819
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-find-the-mans-wife-at-the-hospital-in-5-seconds-1694504377-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the real wife",
+  "choices": {
+    "A": "The woman on the left",
+    "B": "The woman in the center",
+    "C": "The woman on the right"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "The center woman's prominent rounded abdomen and hands placed over it make her look most conventionally pregnant.",
+      "bounding_boxes": [
+        {
+          "box_id": "93105de6-c915-463d-b9a5-0fa288ba8f3e",
+          "x": 307.7603391809896,
+          "y": 288.68649193548384,
+          "width": 234.25342100586454,
+          "height": 193.74193548387098
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "left woman having pregnancy belly",
+      "bounding_boxes": [
+        {
+          "box_id": "619266be-e42d-4470-9d65-b3c231542861",
+          "x": 91.11995734849832,
+          "y": 308.06068548387094,
+          "width": 211.3564700804793,
+          "height": 174.36774193548388
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "C",
+    "idea": "The woman on the right is the real wife. The answer says the left woman does not look close to giving birth, the center woman wears high heels and may be faking pregnancy, and the right woman's shoes are untied because she cannot bend to tie them.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "Amin",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

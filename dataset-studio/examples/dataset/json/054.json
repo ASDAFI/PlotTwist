@@ -1,0 +1,55 @@
+{
+  "image": {
+    "path": "images/054.jpg",
+    "width": 1171,
+    "height": 667
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-to-test-your-iq-find-the-thief-1705074644-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the thief",
+  "choices": {
+    "A": "The man with glasses on the left",
+    "B": "The man seated in the center",
+    "C": "The man on the right"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "Having a Drink bottle in hand",
+      "bounding_boxes": [
+        {
+          "box_id": "dd4d2d0a-d3c3-490c-93a7-d82d4e3ab725",
+          "x": 449.24156410894403,
+          "y": 374.2461693548387,
+          "width": 130.53197312764377,
+          "height": 93.23655913978496
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "A",
+    "idea": "The thief is the guy with the glasses, as he is seen stealing cutlery from the refreshment area near the pool.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

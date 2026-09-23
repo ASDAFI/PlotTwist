@@ -1,0 +1,95 @@
+{
+  "image": {
+    "path": "images/011.jpg",
+    "width": 1068,
+    "height": 559
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-to-test-your-intelligence-find-his-real-wife-in-4-seconds-1692016841-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the real wife",
+  "choices": {
+    "A": "The woman on the left",
+    "B": "The woman on the right"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "The two women have nearly identical appearances and clothing, making either one initially seem like the man's wife.",
+      "bounding_boxes": [
+        {
+          "box_id": "0105d6ef-1670-4462-b671-f16772159ddc",
+          "x": 708.2109893611372,
+          "y": 264.21957014339824,
+          "width": 145.31840470163388,
+          "height": 121.18472673160176
+        },
+        {
+          "box_id": "20705567-54ff-465f-8242-aa678287edad",
+          "x": 247.42790887043955,
+          "y": 226.64946902056278,
+          "width": 165.86413765024517,
+          "height": 143.6540009469697
+        },
+        {
+          "box_id": "37f4de8a-b79e-48b5-9c8f-a54da4992862",
+          "x": 899.1865783930184,
+          "y": 235.7099651650433,
+          "width": 152.68216176028045,
+          "height": 240.7908380681818
+        },
+        {
+          "box_id": "187ca954-b0cc-43ee-9af4-ef415dcf8737",
+          "x": 86.76282947726186,
+          "y": 242.3221895292208,
+          "width": 118.46763201217892,
+          "height": 141.71617965367966
+        },
+        {
+          "box_id": "f1619069-2bda-421b-88ac-df9c47f4383f",
+          "x": 900.0656918801225,
+          "y": 73.0889475108225,
+          "width": 155.7826910481316,
+          "height": 57.7187161796537
+        },
+        {
+          "box_id": "eb20a4d5-4b84-4871-8797-63f407d0ed0d",
+          "x": 38.00984227576074,
+          "y": 79.4175882711039,
+          "width": 200.47095997592535,
+          "height": 58.79633387445888
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "Both women are holding the man's hands and pulling him toward themselves, making their relationships with him appear equally plausible.",
+      "bounding_boxes": []
+    }
+  ],
+  "answer": {
+    "option": "A",
+    "idea": "The woman with the neck tattoo is his real wife; her tattoo matches the wedding photograph.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

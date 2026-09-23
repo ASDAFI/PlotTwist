@@ -1,0 +1,54 @@
+{
+  "image": {
+    "path": "images/045.jpg",
+    "width": 728,
+    "height": 728
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/picture-puzzle-iq-test-find-out-which-woman-will-bring-more-water-1719753042-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who carries more water",
+  "choices": {
+    "A": "The woman on the left",
+    "B": "The woman on the right"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "Woman in front has bended bar suggesting heavier weights.",
+      "bounding_boxes": [
+        {
+          "box_id": "3acce168-e952-4d9c-901a-75e3c681cf54",
+          "x": 54.012903225806454,
+          "y": 292.6188172043011,
+          "width": 367.9139784946237,
+          "height": 295.89677419354837
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "B",
+    "idea": "The second woman will bring more water because her metal buckets have no holes; the first woman's larger bucket is broken.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

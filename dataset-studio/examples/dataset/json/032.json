@@ -1,0 +1,76 @@
+{
+  "image": {
+    "path": "images/032.jpg",
+    "width": 721,
+    "height": 724
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/puzzle-iq-test-only-smart-brains-can-spot-who-is-the-alien-inside-restaurant-picture-1694504875-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the alien",
+  "choices": {
+    "A": "The man at the front-left table",
+    "B": "The woman at the front table",
+    "C": "The man at the back table",
+    "D": "The woman at the back-right table"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "The other diners are eating and drinking normally, making the scene look ordinary.",
+      "bounding_boxes": [
+        {
+          "box_id": "4f447fb0-9e4e-47ce-8b23-c73c9d874d1d",
+          "x": 153.07629478689083,
+          "y": 380.1869250541126,
+          "width": 120.13605875360841,
+          "height": 49.91456980519479
+        },
+        {
+          "box_id": "4eaa2245-9173-430a-8364-5474708816c1",
+          "x": 587.102623535405,
+          "y": 273.0609780844156,
+          "width": 63.884836135167234,
+          "height": 107.60954410173156
+        },
+        {
+          "box_id": "b156278d-ebf3-47be-bc9f-186ba89901ea",
+          "x": 276.4844377096228,
+          "y": 481.36137673040344,
+          "width": 125.87171142698548,
+          "height": 58.95483155377042
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The decisive detail that he is eating it incorrectly, as if seeing one for the first time can be overlooked among the surrounding visual information.",
+      "bounding_boxes": []
+    }
+  ],
+  "answer": {
+    "option": "C",
+    "idea": "The man eating the banana is the alien because he is eating it incorrectly, as if seeing one for the first time.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

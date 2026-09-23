@@ -1,0 +1,60 @@
+{
+  "image": {
+    "path": "images/083.jpg",
+    "width": 1113,
+    "height": 631
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-for-fun-can-you-guess-who-is-the-real-mother-of-the-boy-in-purple-shorts-within-7-seconds-1675770737-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the real mother",
+  "choices": {
+    "A": "The mermaid on the left",
+    "B": "The human woman on the right"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "The boy and the human woman share red hair, creating a conspicuous family-resemblance cue.",
+      "bounding_boxes": []
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "being human and not breathing",
+      "bounding_boxes": [
+        {
+          "box_id": "07544adf-4d24-410b-b4be-8967f126ae97",
+          "x": 742.4099291320582,
+          "y": 128.78676075268817,
+          "width": 157.41278671035582,
+          "height": 119.41505376344085
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "A",
+    "idea": "The mermaid on the left is the boy's mother. The site explains that the human woman cannot breathe underwater while the relaxed boy can breathe through gills.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "Amin",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

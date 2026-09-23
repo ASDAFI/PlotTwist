@@ -1,0 +1,60 @@
+{
+  "image": {
+    "path": "images/012.jpg",
+    "width": 1200,
+    "height": 675
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-can-you-guess-who-is-not-rich-in-this-picture-with-a-logical-reason-1672122864-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is not rich",
+  "choices": {
+    "A": "The woman on the left",
+    "B": "The woman on the right"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "The kitchen setting and clothing make both women appear ordinary.",
+      "bounding_boxes": []
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The familiar Adidas-style design can prevent viewers from noticing that the logo is fake.",
+      "bounding_boxes": [
+        {
+          "box_id": "7c70c5dd-6d89-4078-b8c2-40f2cb88e28c",
+          "x": 331.8405783315895,
+          "y": 321.5826653814935,
+          "width": 185.41615143156088,
+          "height": 137.1150821834416
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "A",
+    "idea": "The woman wearing the fake Adidas logo is not rich.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

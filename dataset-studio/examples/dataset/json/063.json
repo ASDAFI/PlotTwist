@@ -1,0 +1,76 @@
+{
+  "image": {
+    "path": "images/063.jpg",
+    "width": 728,
+    "height": 728
+  },
+  "source": {
+    "url": "https://brightside.me/articles/try-to-solve-the-mystery-riddle-story-in-under-15-minutes-to-find-the-culprit-802693/",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": 39804,
+    "comments_count": null,
+    "likes": 44
+  },
+  "problem": "who is the thief",
+  "choices": {
+    "A": "The woman on the left",
+    "B": "The seated man",
+    "C": "The woman in green on the right"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "food or drink in hand",
+      "bounding_boxes": [
+        {
+          "box_id": "80ad37e1-181b-4312-812c-17cde2252464",
+          "x": 11.741935483870968,
+          "y": 469.5306451612903,
+          "width": 145.6,
+          "height": 154.99354838709678
+        },
+        {
+          "box_id": "9c7a5d49-06c2-4a7c-879b-41344c8c2a01",
+          "x": 79.06236559139785,
+          "y": 220.6016129032258,
+          "width": 82.9763440860215,
+          "height": 65.75483870967744
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "Pregnancy can cause distraction",
+      "bounding_boxes": [
+        {
+          "box_id": "97895f0c-d92b-4efb-87ae-78c517ed59b9",
+          "x": 569.0924731182796,
+          "y": 338.02096774193546,
+          "width": 156.55913978494618,
+          "height": 92.36989247311828
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "C",
+    "idea": "She is the thief. She’s not pregnant, there is bread under her shirt.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "kasra-1",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

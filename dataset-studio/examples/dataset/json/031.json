@@ -1,0 +1,76 @@
+{
+  "image": {
+    "path": "images/031.jpg",
+    "width": 673,
+    "height": 675
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-spot-which-woman-is-rich-only-5-per-cent-highly-observant-answer-correctly-in-5-seconds-1747313645-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is rich",
+  "choices": {
+    "A": "Woman A",
+    "B": "Woman B",
+    "C": "Woman C"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "Woman B’s jewelry and Woman C’s large ring make them look obviously wealthy.",
+      "bounding_boxes": [
+        {
+          "box_id": "2120ee60-f348-4ff6-8983-6bbc99dbb2cc",
+          "x": 299.65681347918263,
+          "y": 238.07681987155075,
+          "width": 95.39883398964417,
+          "height": 50.22929829610558
+        },
+        {
+          "box_id": "96e40044-792b-4e51-b816-31be4ae4390a",
+          "x": 275.96274607369327,
+          "y": 172.4764871595668,
+          "width": 40.349495312779254,
+          "height": 39.82406502411172
+        },
+        {
+          "box_id": "9006c4f5-1a3c-4e25-9229-7106265b6ac1",
+          "x": 375.8342777951104,
+          "y": 188.29185579775927,
+          "width": 37.866562128710996,
+          "height": 33.55211657836978
+        },
+        {
+          "box_id": "899fabb3-80ef-4908-81d4-05b71e814d3d",
+          "x": 553.0356282698989,
+          "y": 288.26949721526785,
+          "width": 47.76167343159079,
+          "height": 32.56090946705359
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "A",
+    "idea": "Woman A is rich because she has a Ferrari.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

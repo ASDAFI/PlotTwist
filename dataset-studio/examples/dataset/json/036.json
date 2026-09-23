@@ -1,0 +1,69 @@
+{
+  "image": {
+    "path": "images/036.jpg",
+    "width": 723,
+    "height": 511
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/puzzle-iq-test-only-a-smart-brain-can-spot-which-woman-is-not-pregnant-in-picture-1696834474-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is not pregnant",
+  "choices": {
+    "A": "The first woman",
+    "B": "The second woman",
+    "C": "The third woman"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "The woman in the middle has a large rounded abdomen, making her appear like a plausible fake pregnancy.",
+      "bounding_boxes": [
+        {
+          "box_id": "9edb3050-8cac-4806-8292-06fc46390a8c",
+          "x": 283.66257117326813,
+          "y": 181.87718953761762,
+          "width": 139.04645804294978,
+          "height": 96.67042811999434
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The woman on the left holds her abdomen in a pregnancy-like pose.",
+      "bounding_boxes": [
+        {
+          "box_id": "2fbf6ef7-6bd4-444e-8a6b-1dda0b3c0c47",
+          "x": 101.4589131784734,
+          "y": 204.2943087807613,
+          "width": 47.135393669409254,
+          "height": 52.03525644344825
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "C",
+    "idea": "The third woman is not pregnant; her baby bump is a pillow.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

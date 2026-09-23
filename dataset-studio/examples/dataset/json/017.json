@@ -1,0 +1,81 @@
+{
+  "image": {
+    "path": "images/017.jpg",
+    "width": 1199,
+    "height": 562
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-spot-who-is-cheating-only-people-with-150-iq-answer-correctly-in-5-seconds-1738320934-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is cheating",
+  "choices": {
+    "A": "Man A",
+    "B": "Man B",
+    "C": "Man C"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "All three men appear to be helping with the log.",
+      "bounding_boxes": []
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "Man B’s central position makes his different posture less obvious.",
+      "bounding_boxes": []
+    },
+    {
+      "id": 3,
+      "intended_option": null,
+      "deceptive_idea": "Man C appears sleepy while carrying the log.",
+      "bounding_boxes": [
+        {
+          "box_id": "2172e81f-febb-4c31-9df9-5bf32620ff3e",
+          "x": 837.3337210722211,
+          "y": 36.12130016702312,
+          "width": 80.73512735127053,
+          "height": 72.23148551305556
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "intended_option": null,
+      "deceptive_idea": "Man C has noticeably smaller arms than the other men.",
+      "bounding_boxes": [
+        {
+          "box_id": "ca3fbb50-b1cd-44c6-8793-d84e363679a8",
+          "x": 907.353734624214,
+          "y": 184.3132053836931,
+          "width": 45.29189561424653,
+          "height": 180.23368046216135
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "B",
+    "idea": "The answer image marks man B, in the middle, as the one cheating while carrying the log.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

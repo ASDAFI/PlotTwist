@@ -1,0 +1,69 @@
+{
+  "image": {
+    "path": "images/066.jpg",
+    "width": 728,
+    "height": 473
+  },
+  "source": {
+    "url": "https://brightside.me/articles/12-detective-riddles-that-will-put-your-brain-to-work-mode-802828/",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": 123347,
+    "comments_count": null,
+    "likes": 39
+  },
+  "problem": "who is the thief",
+  "choices": {
+    "A": "The man in the left fitting room",
+    "B": "The man in the middle fitting room",
+    "C": "The man in the right fitting room"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "looking like hiding something under",
+      "bounding_boxes": [
+        {
+          "box_id": "cd4fcb3d-5afa-4b07-a112-760d575b8731",
+          "x": 65.96074492937144,
+          "y": 200.29388440860214,
+          "width": 140.37718053402614,
+          "height": 106.80645161290323
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "having hands in pocket",
+      "bounding_boxes": [
+        {
+          "box_id": "943223a2-56d8-4c62-b971-7839d2c9ee7f",
+          "x": 320.26723140405653,
+          "y": 175.8809811827957,
+          "width": 139.35995458812738,
+          "height": 76.29032258064515
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "C",
+    "idea": "The website answer image identifies the man on the right and highlights green fabric visible below his gray trouser cuffs.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "kasra-1",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

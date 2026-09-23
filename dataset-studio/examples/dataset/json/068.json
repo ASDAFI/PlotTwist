@@ -1,0 +1,77 @@
+{
+  "image": {
+    "path": "images/068.jpg",
+    "width": 728,
+    "height": 572
+  },
+  "source": {
+    "url": "https://brightside.me/articles/12-detective-riddles-that-will-put-your-brain-to-work-mode-802828/",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": 123347,
+    "comments_count": null,
+    "likes": 39
+  },
+  "problem": "who is the thief",
+  "choices": {
+    "A": "The first person from the left",
+    "B": "The second person from the left",
+    "C": "The third person from the left",
+    "D": "The fourth person from the left"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "carying ",
+      "bounding_boxes": [
+        {
+          "box_id": "62416807-b74b-4c3f-81ce-9cb3a85717b9",
+          "x": 226.22663428028304,
+          "y": 427.9620967741935,
+          "width": 152.5347977611152,
+          "height": 124.24086021505383
+        },
+        {
+          "box_id": "a30b4abd-b17b-46ce-8ded-4f56ecd0351c",
+          "x": 395.9831027563629,
+          "y": 410.74059139784947,
+          "width": 105.79026296335411,
+          "height": 131.6215053763441
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The fourth person’s rounded abdomen may also draw suspicion.",
+      "bounding_boxes": [
+        {
+          "box_id": "17befe0e-7874-4df9-bfca-ae2a60c703fa",
+          "x": 35.558137078889004,
+          "y": 300.0309139784946,
+          "width": 109.48062097370367,
+          "height": 89.7978494623656
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "D",
+    "idea": "The man is seemingly just carrying a football, but it looks like he is putting in too much effort.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "kasra-1",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

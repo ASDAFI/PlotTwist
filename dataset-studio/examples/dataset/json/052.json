@@ -1,0 +1,54 @@
+{
+  "image": {
+    "path": "images/052.jpg",
+    "width": 1200,
+    "height": 525
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/this-brain-teaser-will-reveal-if-your-iq-is-higher-than-200-can-you-spot-who-will-fall-in-12-seconds-1820000673-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who will fall",
+  "choices": {
+    "A": "Man A",
+    "B": "Man B"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "Man A looking Stressed",
+      "bounding_boxes": [
+        {
+          "box_id": "6c87cdf1-d5eb-4044-a559-e4c05cb13a38",
+          "x": 260,
+          "y": 17.095588235294116,
+          "width": 114.11764705882354,
+          "height": 109.41176470588235
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "B",
+    "idea": "Man B will fall due to uneven weight distribution.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

@@ -1,0 +1,2 @@
+Open dataset-studio/docs/CODEX-START-HERE.md. The kit contains the Dataset Studio source, a built UI, screenshots and Codex prompts.
+This standalone snapshot omits the hosted site identity from .openai/hosting.json. Docker and local Vite development do not require a hosted site.

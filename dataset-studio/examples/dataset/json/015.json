@@ -1,0 +1,74 @@
+{
+  "image": {
+    "path": "images/015.jpg",
+    "width": 1191,
+    "height": 564
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-spot-who-is-poor-only-1-percent-can-spot-the-right-answer-in-5-seconds-1742891386-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is poor",
+  "choices": {
+    "1": "Woman 1",
+    "2": "Woman 2"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "Both women display items that may suggest wealth.",
+      "bounding_boxes": [
+        {
+          "box_id": "6d996630-773b-41fd-9fdb-28c9cab9db85",
+          "x": 934.9048616227298,
+          "y": 296.72564935064935,
+          "width": 89.99548351965143,
+          "height": 98.46824269480521
+        },
+        {
+          "box_id": "5b2b70f3-2ffe-4a58-bd3a-55ea94c57e97",
+          "x": 321.54119686729234,
+          "y": 484.0198863636364,
+          "width": 74.38265959832154,
+          "height": 78.51136363636363
+        },
+        {
+          "box_id": "d47278d0-2c8f-40e5-b71c-4de8c5405930",
+          "x": 296.9870031070822,
+          "y": 398.44612418831167,
+          "width": 106.67173436048563,
+          "height": 93.27516233766238
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The high-end-looking phone logo hides that Woman 2’s device is a budget model.",
+      "bounding_boxes": []
+    }
+  ],
+  "answer": {
+    "option": "2",
+    "idea": "Woman 2 is poor; her phone is an old budget model with a fake high-end logo.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

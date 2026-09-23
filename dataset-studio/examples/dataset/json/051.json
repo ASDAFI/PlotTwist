@@ -1,0 +1,55 @@
+{
+  "image": {
+    "path": "images/051.jpg",
+    "width": 1199,
+    "height": 557
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-challenge-spot-who-will-fail-the-test-only-1-percent-answer-correctly-in-5-seconds-1739631234-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who will fail the test",
+  "choices": {
+    "1": "Person 1",
+    "2": "Person 2",
+    "3": "Person 3"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "man 2 looking stressed",
+      "bounding_boxes": [
+        {
+          "box_id": "a7c7b0cc-0805-46f2-85b2-322a489e1e4d",
+          "x": 604.3007914331653,
+          "y": 26.240389784946238,
+          "width": 156.9194361624077,
+          "height": 126.97204301075269
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "1",
+    "idea": "It is boy A who will fail the test as he seems to be reading some magazine or book rather than attempting the test.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

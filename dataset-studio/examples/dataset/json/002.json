@@ -1,0 +1,67 @@
+{
+  "image": {
+    "path": "images/002.jpg",
+    "width": 1209,
+    "height": 434
+  },
+  "source": {
+    "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/de-stress/puzzle-can-you-tell-which-guy-is-lying-among-the-two/articleshow/99033446.cms",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the liar",
+  "choices": {
+    "A": "The man on the left",
+    "B": "The man on the right"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "Both men repeat the same seven-day story.",
+      "bounding_boxes": [
+        {
+          "box_id": "dc5166d2-893d-40f2-85b0-ba3aa3af78f8",
+          "x": 2.985208437188435,
+          "y": 38.77522458013279,
+          "width": 272.86876869391824,
+          "height": 260.19658898580917
+        },
+        {
+          "box_id": "48072a07-c362-4df9-9aa8-202261f00bd2",
+          "x": 893.7779980371386,
+          "y": 37.805255392093045,
+          "width": 302.73497865777676,
+          "height": 264.30247797595797
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The clean clothing and shaved face can look ordinary until they are compared with the claimed stay in the woods.",
+      "bounding_boxes": []
+    }
+  ],
+  "answer": {
+    "option": "A",
+    "idea": "The clean-shaven, neat man is lying because someone who spent seven days in the woods would not look so tidy.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

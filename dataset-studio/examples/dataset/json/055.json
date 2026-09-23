@@ -1,0 +1,55 @@
+{
+  "image": {
+    "path": "images/055.jpg",
+    "width": 1199,
+    "height": 550
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-spot-who-is-the-dog-owner-only-1-percent-answer-correctly-in-5-seconds-1742556652-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the owner",
+  "choices": {
+    "A": "Person A",
+    "B": "Person B",
+    "C": "Person C"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "A having Fur",
+      "bounding_boxes": [
+        {
+          "box_id": "5e59fc15-ebf3-4e99-af5d-9c04fe75369c",
+          "x": 444.55185276527527,
+          "y": 67.30846774193549,
+          "width": 165.59343979283562,
+          "height": 222.36559139784947
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "C",
+    "idea": "The correct answer is C. If you look closely at his bag, you'll notice a dog bone inside.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

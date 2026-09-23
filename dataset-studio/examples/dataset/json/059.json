@@ -1,0 +1,54 @@
+{
+  "image": {
+    "path": "images/059.jpg",
+    "width": 728,
+    "height": 362
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-spot-who-is-lying-to-the-teacher-1673004059-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the liar",
+  "choices": {
+    "A": "The boy on the left",
+    "B": "The boy on the right"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "having tattoo and being carefree",
+      "bounding_boxes": [
+        {
+          "box_id": "726a9304-ec36-4f53-a668-2644cb6443a5",
+          "x": 391,
+          "y": 127.40625,
+          "width": 123,
+          "height": 148
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "B",
+    "idea": "The boy holding books and a marker is lying to the teacher.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

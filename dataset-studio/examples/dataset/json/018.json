@@ -1,0 +1,53 @@
+{
+  "image": {
+    "path": "images/018.jpg",
+    "width": 1199,
+    "height": 560
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-spot-who-is-her-mother-only-people-with-high-iq-can-spot-it-in-5-seconds-1744295293-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the real mother",
+  "choices": {
+    "A": "Left woman with curly orange hair",
+    "B": "Middle blonde woman",
+    "C": "Right woman with a ponytail"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "Both women stand equally close to the girl.",
+      "bounding_boxes": []
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "Their similar roles can distract from the matching hair color shared by Woman B and the girl.",
+      "bounding_boxes": []
+    }
+  ],
+  "answer": {
+    "option": "B",
+    "idea": "Woman B is the girl's mother because their hair colour matches.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

@@ -1,0 +1,69 @@
+{
+  "image": {
+    "path": "images/025.jpg",
+    "width": 461,
+    "height": 347
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-can-you-spot-fairy-godmother-in-room-1665404268-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the fairy godmother",
+  "choices": {
+    "A": "The woman at the far left",
+    "B": "The woman near the window",
+    "C": "The woman in the red dress",
+    "D": "The maid in gray",
+    "E": "The maid in white"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "More than one person appears able to fit the claimed relationship or role.",
+      "bounding_boxes": []
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The decisive detail that she is trying to hide her wand can be overlooked among the surrounding visual information.",
+      "bounding_boxes": []
+    },
+    {
+      "id": 3,
+      "intended_option": null,
+      "deceptive_idea": "The woman in the pink gown is wearing a tiara and an elaborate magical/fairytale-looking dress.",
+      "bounding_boxes": [
+        {
+          "box_id": "8c1007fa-5d9f-4c19-b2fb-ff8fe5adf82e",
+          "x": 189.09553812537342,
+          "y": 172.88829866831657,
+          "width": 114.63210701767821,
+          "height": 171.22664244205225
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "B",
+    "idea": "The woman near the window is the Fairy Godmother; she is trying to hide her wand.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

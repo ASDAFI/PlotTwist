@@ -1,0 +1,69 @@
+{
+  "image": {
+    "path": "images/064.jpg",
+    "width": 728,
+    "height": 728
+  },
+  "source": {
+    "url": "https://brightside.me/articles/14-logical-riddles-that-can-keep-you-up-all-night-801752/",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": 54676,
+    "comments_count": null,
+    "likes": 38
+  },
+  "problem": "who snuck out of the house",
+  "choices": {
+    "A": "The person in the left bed",
+    "B": "The person in the middle bed",
+    "C": "The person in the right bed"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "having clothes around bed",
+      "bounding_boxes": [
+        {
+          "box_id": "c63b8968-f35e-41e3-a5ca-1afd390b2011",
+          "x": 160.4731182795699,
+          "y": 399.0790322580645,
+          "width": 118.98494623655913,
+          "height": 184.73978494623663
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "being awake",
+      "bounding_boxes": [
+        {
+          "box_id": "a25ff326-e5f8-4c36-aba4-00a7baef9367",
+          "x": 327.9913978494624,
+          "y": 187.7241935483871,
+          "width": 78.27956989247309,
+          "height": 75.1483870967742
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "C",
+    "idea": "She sneaked intoher bed withdirty shoes.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "kasra-1",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

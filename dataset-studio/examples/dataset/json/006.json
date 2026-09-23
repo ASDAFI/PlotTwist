@@ -1,0 +1,61 @@
+{
+  "image": {
+    "path": "images/006.jpg",
+    "width": 1280,
+    "height": 587
+  },
+  "source": {
+    "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/de-stress/iq-test-can-you-tell-which-person-is-in-danger/articleshow/119423997.cms",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is in danger",
+  "choices": {
+    "1": "Person 1",
+    "2": "Person 2",
+    "3": "Person 3"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "All three people are placed in the same dangerous setting.",
+      "bounding_boxes": []
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The normal-looking backpack can be mistaken for a parachute at first glance.",
+      "bounding_boxes": [
+        {
+          "box_id": "79b47f00-32ac-4a7a-b109-cf67ad47d8cb",
+          "x": 1133.7188434695913,
+          "y": 212.7221958013452,
+          "width": 95.84745762711873,
+          "height": 287.5428612677491
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "3",
+    "idea": "C is in danger because he is wearing a standard backpack instead of a parachute.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

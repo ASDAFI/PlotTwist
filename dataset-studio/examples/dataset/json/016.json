@@ -1,0 +1,52 @@
+{
+  "image": {
+    "path": "images/016.jpg",
+    "width": 451,
+    "height": 419
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-who-is-lying-spot-the-liar-1665579578-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the liar",
+  "choices": {
+    "A": "The man by the red car (left)",
+    "B": "The man by the blue car (right)"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "The suspects are presented as plausible alternatives, so appearance or accusations alone can point toward the wrong person.",
+      "bounding_boxes": []
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The decisive detail that his blue car's tire marks match those at the damaged scene can be overlooked among the surrounding visual information.",
+      "bounding_boxes": []
+    }
+  ],
+  "answer": {
+    "option": "B",
+    "idea": "The man on the right is lying; his blue car's tire marks match those at the damaged scene.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

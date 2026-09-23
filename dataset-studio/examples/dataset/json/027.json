@@ -1,0 +1,69 @@
+{
+  "image": {
+    "path": "images/027.jpg",
+    "width": 668,
+    "height": 527
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-challenge-you-have-the-brain-of-sherlock-holmes-if-you-can-find-the-killer-bride-in-prison-in-4-seconds-1679898311-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is the killer",
+  "choices": {
+    "A": "Bride A",
+    "B": "Bride B",
+    "C": "Bride C"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "The red flower on Bride B’s dress can resemble a blood stain, drawing attention away from the hidden weapon below.",
+      "bounding_boxes": [
+        {
+          "box_id": "367a45a0-398f-49c4-83e4-ebc996d6efae",
+          "x": 276.67425228601104,
+          "y": 358.22058539296165,
+          "width": 68.1611454577261,
+          "height": 43.95379989848948
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The blood stains on Bride C’s dress make her appear directly involved in the killing.",
+      "bounding_boxes": [
+        {
+          "box_id": "05f867e3-f3c1-4503-b988-aceb8094d07b",
+          "x": 492.35300306527273,
+          "y": 322.6691554251167,
+          "width": 133.83141797676973,
+          "height": 126.21493591502662
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "option": "B",
+    "idea": "Bride B killed her husband; the answer image reveals the knife hidden beneath her dress.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

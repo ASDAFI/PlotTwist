@@ -1,0 +1,61 @@
+{
+  "image": {
+    "path": "images/033.jpg",
+    "width": 728,
+    "height": 506
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/brain-teaser-guess-who-is-in-danger-within-7-seconds-1708577147-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is in danger",
+  "choices": {
+    "1": "Person 1",
+    "2": "Person 2",
+    "3": "Person 3"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "The other exercise positions may look more immediately dangerous.",
+      "bounding_boxes": [
+        {
+          "box_id": "5e9131a4-541e-4c3c-aeea-f4cb38bfdca2",
+          "x": 48.2851904090268,
+          "y": 201.05747767857142,
+          "width": 151.95331452750352,
+          "height": 155.70777529761907
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "Chewing gum appears harmless until its choking risk during running is considered.",
+      "bounding_boxes": []
+    }
+  ],
+  "answer": {
+    "option": "3",
+    "idea": "Person 3 is in danger because she could choke on her bubble gum while running.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

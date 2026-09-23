@@ -1,0 +1,61 @@
+{
+  "image": {
+    "path": "images/037.jpg",
+    "width": 728,
+    "height": 490
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/puzzle-iq-test-only-a-smart-brain-can-spot-who-is-pregnant-by-looking-at-womens-feet-1681719826-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is pregnant",
+  "choices": {
+    "1": "Woman 1",
+    "2": "Woman 2",
+    "3": "Woman 3"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "Woman 2 is wearing comfortable flat shoes, making her a plausible pregnant candidate.",
+      "bounding_boxes": [
+        {
+          "box_id": "bed6257b-e8ef-47c7-9911-4186ede557e8",
+          "x": 287.2118546594709,
+          "y": 327.17400981279116,
+          "width": 160.91008243857067,
+          "height": 94.1457529051695
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The decisive detail that her shoelaces are untied can be overlooked among the surrounding visual information.",
+      "bounding_boxes": []
+    }
+  ],
+  "answer": {
+    "option": "3",
+    "idea": "The third woman is pregnant because her shoelaces are untied.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}

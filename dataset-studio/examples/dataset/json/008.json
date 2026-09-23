@@ -1,0 +1,68 @@
+{
+  "image": {
+    "path": "images/008.jpg",
+    "width": 1051,
+    "height": 581
+  },
+  "source": {
+    "url": "https://www.jagranjosh.com/general-knowledge/iq-test-can-you-spot-who-is-not-a-human-in-5-seconds-1746022852-1",
+    "authored_date": null
+  },
+  "popularity": {
+    "views": null,
+    "comments_count": null,
+    "likes": null
+  },
+  "problem": "who is not human",
+  "choices": {
+    "A": "The vampire on the left",
+    "B": "The werewolf in the center",
+    "C": "The green figure on the right"
+  },
+  "ordered_deceptions": [
+    {
+      "id": 1,
+      "intended_option": null,
+      "deceptive_idea": "The unusual figure is designed to blend in with the other people at first glance.",
+      "bounding_boxes": [
+        {
+          "box_id": "ab650d90-c230-4292-8691-51a9d5274bf5",
+          "x": 511.9350672031356,
+          "y": 285.2894189572138,
+          "width": 149.19395219686925,
+          "height": 221.73994819450576
+        },
+        {
+          "box_id": "c8929077-feff-44e1-89e9-afeddf9118f9",
+          "x": 334.05746612579685,
+          "y": 200.17279347425648,
+          "width": 171.01345318801907,
+          "height": 144.51487917911658
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "intended_option": null,
+      "deceptive_idea": "The answer-marking detail is small compared with the other visible people and objects.",
+      "bounding_boxes": []
+    }
+  ],
+  "answer": {
+    "option": "A",
+    "idea": "The vampire is the person whose reflection is missing from the mirror.",
+    "bounding_boxes": [],
+    "source": {
+      "type": null,
+      "note": null
+    }
+  },
+  "difficulty": null,
+  "category": null,
+  "contributor": {
+    "name": "mahyar",
+    "openreview_id": null
+  },
+  "added_date": null,
+  "is_ai_generated": false
+}
