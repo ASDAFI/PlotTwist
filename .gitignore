@@ -67,5 +67,18 @@ dataset-studio/backend/.venv/
 .turbo/
 
 .plottwist/
-exports/*
-!exports/.gitkeep
+
+# Private/local Dataset Studio inputs and generated outputs.
+# Keep the small *_example fixtures committed for demos and tests.
+/dataset/
+/responses/
+/outputs/
+/dataset-studio/dataset/
+/dataset-studio/responses/
+/dataset-studio/outputs/
+/dataset-studio/examples/dataset/
+/dataset-studio/examples/responses/
+/dataset-studio/exports/*
+!/dataset-studio/exports/.gitkeep
+/exports/*
+!/exports/.gitkeep
